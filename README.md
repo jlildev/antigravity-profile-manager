@@ -23,7 +23,7 @@ This tool allows you to create, manage, and run **multiple fully-isolated Antigr
 
 ## 📸 How it Works visually
 
-![Antigravity Profile Switcher UI](assets/screenshot.png)
+![Antigravity Profile Switcher UI](assets/profile-switcher-picker.png)
 
 *The beautiful Zenity picker dialog where you can select, launch, or create new isolated profiles concurrently.*
 
@@ -81,7 +81,7 @@ You can launch and use the profiles in three distinct ways:
 ### 1. From your Application Menu (GUI)
 Search for **"Antigravity"** in your system applications. You will see all three custom launchers with their distinctive color badges:
 
-![Antigravity OS Launcher Search](assets/launcher_shortcuts.png)
+![Antigravity OS Launcher Search](assets/application-menu-launchers.png)
 
 * Click **Antigravity (Profile A)** to open your isolated Profile A.
 * Click **Antigravity (Profile B)** to open your isolated Profile B.
