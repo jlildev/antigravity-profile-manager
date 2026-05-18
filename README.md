@@ -51,7 +51,7 @@ This tool allows you to create, manage, and run **multiple fully-isolated Antigr
 Open your terminal and run the following command to clone and install the Profile Manager instantly:
 
 ```bash
-git clone https://github.com/yourusername/antigravity-profile-manager.git
+git clone https://github.com/jlildev/antigravity-profile-manager.git
 cd antigravity-profile-manager
 bash install.sh
 ```
